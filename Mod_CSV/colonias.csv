@@ -1,0 +1,1405 @@
+id,colonia
+1,Roma Norte
+2,Obrera
+3,Doctores
+4,Tlaxpana
+5,Agricola Pantitlan
+6,Popular Rastro
+7,C T M Aragon
+8,Campestre Aragon
+9,Gabriel Ramos Millan Secc Tlacotal
+10,Cerrillos Primera Seccion
+11,Barrio San Miguel
+12,Pueblo San Lorenzo Tezonco
+13,Celoalliotli
+14,Ejercito De Agua Prieta
+15,Chinampac De Juarez
+16,Santa Martha Acatitla Norte
+17,Santiago Acahualtepec 1a Ampliaciën
+18,Pueblo San Jose Zacatepec
+19,Desarrollo Urbano Quetzalcoatl
+20,Juan Escutia
+21,Pueblo Santa Maria Nativitas
+22,Popotla
+23,Merced Gomez
+24,Providencia
+25,Belem De Las Flores
+26,Narciso Mendoza
+27,San Francisco Culhuacan Barrio De Santa Ana
+28,Pedregal De Santo Domingo
+29,Claveria
+30,El Manto
+31,Paraje San Juan Cerro
+32,Centro
+33,Viejo Ejido Santa Ursula Coapa
+34,Pedregal De San Nicolas 1a Seccion
+35,Tablas De San Agustin
+36,San Juan De Aragon V Seccion
+37,Morelos
+38,Del Recreo
+39,Pueblo Santa Martha Acatitla
+40,Loma La Palma
+41,Barrio San Mateo
+42,San Pedro El Chico
+43,Haciendas De Coyoacan
+44,Ex-Ejido La Magdalena Mixhuca
+45,Industrial Vallejo
+46,Lorenzo Boturini
+47,Ejidos De San Pedro Martir
+48,Selene
+49,Selene Del Pueblo San Francisco Tlaltenco
+50,La Cruz
+51,Renovacion
+52,Polanco Iv Seccion
+53,Pueblo Santa Maria Malinalco
+54,Jardin Balbuena
+55,Quiahuatla
+56,Los Picos
+58,Anahuac I Seccion
+59,Nativitas
+60,San Jose Tlahuac Del Pueblo San Pedro Tlahuac
+61,Los Alpes
+62,Del Valle Sur
+63,Jardines Del Pedregal
+64,Heroes De Padierna
+65,Ampliacion Fuentes Del Pedregal
+66,Lomas De Memetla
+67,Pensador Mexicano
+68,Unidad Santa Cruz Meyehualco
+69,San Lorenzo La Cebada
+70,Paraje Zacatepec
+71,Santa Maria Aztahuacan
+72,Campestre Churubusco
+73,Pueblo San Bernabe Ocotepec
+74,Ampliacion Gabriel Hernandez
+75,Pueblo San Miguel Ajusco
+76,San Pedro De Los Pinos
+77,Pueblo Santiago Tepalcatlalpan
+78,El Coyol
+79,Puebla
+80,7 De Noviembre
+81,Barrio La Purisima Ticoman
+82,Michoacana
+83,5to Tramo 20 De Noviembre
+84,Tepeyac Insurgentes
+85,Lindavista Vallejo 3a Seccion
+86,Tierra Nueva
+87,Pasteros
+88,Juarez
+89,San Juan Tepeximilpa
+90,Diamante
+91,Pueblo Tizapan
+92,Xalpa
+93,Pueblo Santa Rosa Xochiac
+94,Viaducto Piedad
+95,Pueblo San Andres Totoltepec
+96,Pueblo San Pedro Martir
+97,Pueblo San Miguel Xicalco
+98,Fernando Casas Aleman
+99,Granada
+100,Santa Isabel Tola
+101,Barrio San Antonio
+102,Tacubaya
+103,Residencial Zacatenco
+104,Ampliacion Daniel Garza
+105,Pedregal De Carrasco
+106,Nueva Rosita
+107,La Angostura
+108,Zentlapatl
+109,Contadero
+110,Miguel Hidalgo 3a Seccion
+111,Vallejo
+112,Culhuacan Ctm Seccion Vii
+113,La Malinche
+114,El Ocotal
+115,La Draga
+116,Jardines En La Montaña
+117,La Esperanza
+118,Santa Fe Cuajimalpa
+119,Barrio San Francisco Xicaltongo
+120,Cristo Rey
+121,Lomas De Bezares
+122,Pedregal De San Nicolas 4a Seccion
+123,Agricola Oriental
+124,Ciudad De Los Deportes
+125,Pueblo San Francisco Tetecala
+126,La Era
+127,Martires De Rio Blanco
+128,San Salvador Xochimanca
+129,El Capulin
+130,Apatlaco
+131,Narvarte Oriente
+132,D M Nacional
+133,Tlacamaca
+134,Real Del Monte
+135,Santa Rosa
+136,Vallejo Poniente
+137,Pueblo San Gregorio Atlapulco
+138,Ex-Hacienda De Guadalupe Chimalistac
+139,Valle De San Lorenzo
+140,Memetla
+141,Xoco
+142,Jose Lopez Portillo
+143,San Miguel Teotongo Secc Ranchito
+144,Granjas Estrella
+145,Campestre Potrero
+146,Lomas De Zaragoza
+147,Progresista
+148,Sacramento
+149,San Felipe De Jesus
+150,Buenavista
+151,Reforma Politica
+152,San Jose Insurgentes
+153,Insurgentes Mixcoac
+154,Pueblo San Lorenzo Huipulco
+155,Guadalupe Inn
+156,Barrio San Marcos
+157,Colinas Del Ajusco
+158,Pedregal De Santa Ursula Xitla
+159,Santa Martha Acatitla Sur
+160,San Juan Xalpa
+161,Pueblo San Mateo Tlaltenango
+162,Ojo De Agua
+163,Ex-Hacienda El Rosario
+164,El Rosario
+165,Santa Cecilia
+166,Zacatenco
+167,Barrio La Asuncion
+168,San Francisco Culhuacan Barrio De San Juan
+169,Texmic
+170,Unidad Modelo
+171,Plenitud
+172,Churubusco Country Club
+173,Transito
+174,Barrio Calyequita
+175,El Caracol
+176,Pueblo Nuevo Bajo
+177,El Paraiso
+178,San Jose De La Escalera
+179,Barrio San Francisco
+180,San Jeronimo
+181,Pueblo Ocotla
+182,Barrio 18
+183,Progreso Nacional
+184,Heroico Colegio Militar
+185,Arpto Int De La Cd De Mex-Equipamiento
+186,Mirador Del Valle
+187,Ampliacion 20 De Noviembre
+188,Pueblo San Francisco Tlaltenco
+189,Lopez Portillo Del Pueblo San Francisco Tlaltenco
+190,San Juan De Aragon Vi Seccion
+191,San Juan De Aragon Vii Seccion
+192,Jesus Del Monte
+193,Valentin Gomez Farias
+194,Francisco Villa
+195,Barrio Santa Ana Poniente
+196,Barrio La Concepcion
+197,Los Girasoles
+198,La Nopalera
+199,Las Arboledas
+200,Leyes De Reforma 3a Seccion
+201,Nueva Santa Anita
+202,Pueblo Chimalcoyotl
+203,Barrio San Pedro
+204,Club De Golf Mexico
+205,San Juan De Aragon Iii Seccion
+206,Pueblo San Andres Tomatlan
+207,Guerrero
+208,Barrio Los Reyes
+209,Miguel Hidalgo
+210,Ampliacion Paraje San Juan
+211,Unidad Vicente Guerrero
+212,Aldana
+213,Tezozomoc
+214,Agricultura
+215,Tlalpan
+216,Atlantida
+217,Cuchilla Del Tesoro
+218,San Juan De Aragon Ii Seccion
+219,Barrio El Rosario
+220,El Mirador
+221,Heroes De Chapultepec
+222,Pueblo San Nicolas Totolapan
+223,Liberacion
+224,La Palma
+225,Cuautepec De Madero
+226,Barrio La Planta
+227,Barrio Del Puente
+228,Carlos Zapata Vela
+229,San Diego Churubusco
+230,El Triangulo
+231,Peralvillo
+232,El Triangulo Del Pblo. De Sn. Fco. Tlaltenco
+233,Los Picos De Iztacalco Seccion 1 B
+234,Lomas De San Lorenzo
+235,Las Maromas
+236,Carola
+237,Ampliacion Las Aguilas
+238,Constitucion De 1917
+239,Gabriel Ramos Millan
+240,Barrio Xaltocan
+241,El Toro
+242,Jardines De Coyoacan
+243,El Rosedal
+244,Alianza Popular Revolucionaria
+245,San Bartolo El Chico
+246,General Ignacio Zaragoza
+247,Santa Maria La Ribera
+248,Escuadron 201
+249,Solidaridad Nacional
+250,Pueblo Santa Cruz Acalpixca
+251,Barrio San Antonio Culhuacan
+252,Salvador Diaz Miron
+253,Del Carmen
+254,Ajusco
+255,Barrio Coltongo
+256,Coltongo
+257,Los Olivos
+258,El Molino Tezonco
+259,Esperanza
+260,Santa Fe Centro Ciudad
+261,Barrio San Lorenzo
+262,Barrio Santa Apolonia
+263,Barrio Santiago Centro Del Pueblo Santiago Zapotitlan
+264,Barrio Nextengo
+265,Algarin
+266,Central De Abasto
+267,Churubusco Tepeyac
+268,Villa Coapa
+269,Buenos Aires
+270,Lomas De Vista Hermosa
+271,Moctezuma 2a. Seccion
+272,Pueblo Santa Ursula Xitla
+273,Panamericana
+274,El Retoño
+275,San Gabriel
+276,Pueblo Santa Fe
+277,Hipodromo Condesa
+278,Condesa
+279,San Nicolas Tolentino
+280,Roma Sur
+281,Periodista
+282,Del Valle Norte
+283,Atlampa
+284,Paseos De Churubusco
+285,Miguel De La Madrid Hurtado
+286,Un Hogar Para Nosotros
+287,Nueva Tenochtitlan
+288,Flor De Maria
+289,Industrial Puerto Aereo
+290,Obrero Popular
+291,Educacion
+292,Lomas Del Pedregal
+293,Los Angeles
+294,Ampliacion Granada
+295,Ciudad Jardin
+296,El Yaqui
+297,La Pradera
+298,Peñon De Los Baños
+299,Molino De Rosas
+300,San Juan De Aragon
+301,Presidentes De Mexico
+302,Piedad Narvarte
+303,Pueblo San Juan De Aragon
+304,Santa Anita
+305,Torres De Potrero
+306,Barrio Guadalupe
+307,Olivar De Los Padres
+308,San Juan Tepepan
+309,Barrio Cruztitla
+310,Siete Maravillas
+311,Palmitas
+312,Residencial Miramontes
+313,Romero De Terreros
+314,San Bartolo Atepehuacan
+315,Tabacalera
+316,Campamento 2 De Octubre
+317,Infonavit Iztacalco
+318,Portales Sur
+319,Belisario Dominguez Seccion Xvi
+320,Pueblo San Luis Tlaxialtemalco
+321,Barrio La Guadalupita
+322,La Planta
+323,Insurgentes San Borja
+324,Barrio San Andres
+325,Jardines Del Ajusco
+326,10 De Abril
+327,Mirador Ii
+328,Vista Alegre
+329,Ampliacion Piloto Adolfo Lopez Mateos
+330,San Antonio Culhuacan
+331,Unidad Ejercito Constitucionalista
+332,Castillo Chico
+333,Del Mar
+334,Vasco De Quiroga
+335,Hipodromo
+336,Estrella
+337,Del Parque
+338,La Estacion
+339,Guadalupe Del Moral
+340,Consejo Agrarista Mexicano
+341,Cuajimalpa
+342,Los Manzanos
+343,Pueblo Tetelpan
+344,Lomas Quebradas
+345,Pueblo La Candelaria
+346,Culhuacan Ctm Seccion Viii
+347,Del Valle Centro
+348,Fuentes Del Pedregal
+349,El Vergel
+350,Pueblo Culhuacan
+351,Acacias
+352,Barrio Santa Barbara
+353,Santa Cruz Atoyac
+354,Olivar Del Conde 1ra Seccion
+355,Guadalupe Victoria Cuautepec
+356,Granjas Coapa
+357,Gertrudis Sanchez 3a Seccion
+358,Pro Hogar
+359,Reforma Pensil
+360,A M S A
+361,Guadalupe
+362,La Habana
+363,Pueblo Santa Maria Tepepan
+364,San Rafael
+365,Pueblo De Los Reyes
+366,Pueblo Tulyehualco
+367,Artes Graficas
+368,Granjas De San Antonio
+369,Lomas De La Era
+370,Culhuacan Ctm Canal Nacional
+371,Villa Tlalpan
+372,Carmen Serdan
+373,Atlamaya
+374,Nueva Atzacoalco
+375,Pueblo Los Reyes Culhuacan
+376,Progreso Del Sur
+377,Ex Hacienda Coapa
+378,Pueblo San Bartolo Ameyalco
+379,Tarango
+380,Lomas De Guadalupe
+381,Tacuba
+382,Nonoalco Tlatelolco
+383,Copilco Universidad
+384,Cuauhtemoc
+385,4 Arboles
+386,Zacahuitzco
+387,Barrio Santa Ana Centro
+388,Guadalupe Insurgentes
+389,Adolfo Lopez Mateos
+390,Jardines Del Pedregal De San Angel
+391,Mixcoac
+392,Valle Gomez
+393,Granjas Mexico
+394,Cooperativa Palo Alto
+395,Lindavista Sur
+396,El Centinela
+397,Llano Redondo
+398,Santa Maria Nonoalco
+399,15 De Agosto
+400,Constitucion De La Republica
+401,Las Aguilas
+402,Granjas Modernas
+403,Arenal 2a. Seccion
+404,Tres Estrellas
+405,C T M Atzacoalco
+406,Purisima Atlazolpa
+407,Pueblo Magdalena Atlazolpa
+408,Alamos
+409,Gabriel Ramos Millan Seccion Bramadero
+410,El Triunfo
+411,Cultura Maya
+412,Culhuacan Ctm Croc
+413,Barrio San Juan
+414,Acueducto De Guadalupe
+415,Polanco Ii Seccion
+416,San Jose Ticoman
+417,Garcimarrero
+418,Barrio Candelaria Ticoman
+419,Ampliacion Casas Aleman
+420,Santa Maria Ticoman
+421,El Olivo
+422,Aeronautica Militar
+423,Observatorio
+424,Jamaica
+425,Ampliacion Torre Blanca
+426,El Jaguey
+427,Leyes De Reforma 1a Seccion
+428,Guadalupe Proletaria
+429,Polanco I Seccion
+430,La Joya
+431,Nueva El Rosario
+432,Pueblo San Miguel Topilejo
+433,San Simon Ticumac
+434,Pueblo San Juan Tlihuaca
+435,Insurgentes
+436,Potrero Del Llano
+437,Zona Centro
+438,Mexico Nuevo
+439,Lomas De Chapultepec V Seccion
+440,Iztaccihuatl
+441,Nueva Industrial Vallejo
+442,Barrio Guadalupe Ticoman
+443,Barrio Santiago Sur
+444,Colinas De Tarango
+445,Ampliacion Santa Maria Aztahuacan
+446,Hueytlale
+447,Deportivo Pensil
+448,San Miguel Chapultepec Ii Seccion
+449,Chalma De Guadalupe
+450,10 De Mayo
+451,Tablas De San Lorenzo
+452,Pueblo Aculco
+453,12 De Diciembre
+454,Potrero San Bernardino
+455,Pueblo Santa Cecilia Tepetlapa
+456,Huichapan
+457,Emiliano Zapata
+458,Pueblo San Pablo Tepetlapa
+459,Parque San Andres
+460,Culhuacan Ctm Seccion X-A
+461,Tlalcoligia
+462,Insurgentes Cuicuilco
+463,La Lengueta
+464,Nicolas Bravo
+465,Felipe Pescador
+466,Ampliacion Penitenciaria
+467,Rinconada Coapa 2a Seccion
+468,Emilio Carranza
+469,Veronica Anzures
+470,Ciudad Universitaria
+471,Barrio San Rafael Ticoman
+472,Juan Gonzalez Romero
+473,Napoles
+474,Isidro Fabela
+475,Zona Escolar
+476,Pueblo De Santa Ursula Coapa
+477,Olimpica
+478,Ex Escuela De Tiro
+479,Ampliacion Aviacion Civil
+480,Del Obrero
+481,Santiago Atepetlac
+482,La Asuncion
+483,Xotepingo
+484,Federal
+485,Jacarandas
+486,Torres Lindavista
+487,Bosque De Chapultepec Ii Seccion
+488,Residencial La Escalera
+489,Jorge Negrete
+490,Estacion Pantaco
+491,Parque Nacional Bosque Del Pedregal
+492,Portales Norte
+493,Mixcoatl
+494,Gertrudis Sanchez 2a Seccion
+495,Barrio Santa Maria Nonoalco
+496,Compositores Mexicanos
+497,Parque Nacional Cerro De La Estrella
+498,La Martinica
+499,Lomas De Puerta Grande
+500,Pueblo San Mateo Xalpa
+501,Barrio Caltongo
+502,El Sifon
+503,San Jeronimo Aculco
+504,Narvarte Poniente
+505,Lindavista Norte
+506,Tepalcates
+507,Militar Marte
+508,Arenal De Guadalupe
+509,San Juan De Aragon I Seccion
+510,Guadalupe Tepeyac
+511,Industrial
+512,Pueblo Sta Cruz Meyehualco
+513,Irrigacion
+514,Carlos Hank Gonzalez
+515,Ampliacion Alpes
+516,Lomas De Tarango
+517,Las Aguilas 1ra Seccion
+518,La Noria
+519,Cacama
+520,Barrio Santa Catarina
+521,El Bosque 2a Secc
+522,Prado Churubusco
+523,San Jeronimo Lidice
+524,Ampliacion Martires De Rio Blanco
+525,Año De Juarez
+526,Casa Blanca
+527,Merced Balbuena
+528,Pueblo Santa Maria Aztahuacan
+529,Justo Sierra
+530,Sector Popular
+531,Florida
+532,Cerro De La Estrella
+533,San Juan De Aragon Iv Seccion
+534,Lomas Altas
+535,Cuautepec Barrio Alto
+536,Lomas De Plateros
+537,Polanco V Seccion
+538,Residencial Acueducto De Guadalupe
+539,Cuchilla Pantitlan
+540,Magdalena De Las Salinas
+541,Barrio Santiago
+542,Lago Sur
+543,Argentina Poniente
+544,Loma Hermosa
+545,Valle Del Sur
+546,Dr Alfonso Ortiz Tirado
+547,Lomas De Padierna
+548,Villa Centroamericana
+549,Emiliano Zapata Fraccionamiento Popular
+550,San Pedro Zacatenco
+551,Bondojito
+552,Pueblo De Santiago Atzacoalco
+553,San Felipe
+554,Ampliacion Ricardo Flores Magon
+555,San Andres Tetepilco
+556,Pueblo San Martin Xochinahuac
+557,Olivar Del Conde 2da Seccion
+558,Letran Valle
+559,Acuilotla
+560,Ampliacion San Pedro Xalpa
+561,Ricardo Flores Magon
+562,Granjas Cabrera
+563,Hogar Y Redencion
+564,1ra Victoria
+565,Ampliacion San Marcos Norte
+566,San Angel
+567,San Sebastian Del Pueblo San Pedro Tlahuac
+568,Ampliacion Panamericana
+569,La Herradura Del Pueblo Tetelpan
+570,San Isidro
+571,Arvide
+572,San Jose Aculco
+573,Felipe Angeles
+574,Ermita
+575,Bosque De Las Lomas
+576,Ex Hipodromo De Peralvillo
+577,Lomas De Chapultepec Viii Seccion
+578,Pueblo San Francisco Tecoxpa
+579,Anzures
+580,Niños Heroes
+581,Cuchilla Agricola Oriental
+582,Jardines Tecma
+583,Barrio Loreto
+584,Avante
+585,Defensores De La Republica
+586,Pueblo Axotla
+587,Barrio San Juan Minas
+588,Bosque De Chapultepec I Seccion
+589,Palmas
+590,Ampliacion Napoles
+591,Lomas De Chapultepec I Seccion
+592,Alvaro Obregon
+593,Pueblo Santiago Acahualtepec
+594,Asturias
+595,Residencial Militar
+596,Centro De Azcapotzalco
+597,Jardin Azpeitia
+598,Ampliacion Progreso Nacional
+599,Guadalupe Victoria
+600,La Cañada
+601,Jardines De San Lorenzo Tezonco
+602,C T M El Risco
+603,San Juanico
+604,Los Cedros
+605,Santa Ines
+606,Alcantarilla
+607,Escandon Ii Seccion
+608,Lomas De Chapultepec Iii Seccion
+609,Moctezuma 1a Seccion
+610,Barrio San Pablo
+611,El Prado
+612,Heroes De Churubusco
+613,Petrolera
+614,Trabajadores De Hierro
+615,Jalalpa El Grande
+616,Barrio San Fernando
+617,San Jose De Los Cedros
+618,Tlalpan Centro
+619,San Miguel Teotongo Secc Puente
+620,Aguilera
+621,Pueblo De La Magdalena Mixiuhca
+622,Caracol
+623,Lomas De Los Cedros
+624,Minas Cristo Rey
+625,Tierra Blanca
+626,San Juan
+627,Pueblo San Lucas Xochimanca
+628,Bosques De Las Lomas
+629,Actipan
+630,Barrio Belen
+631,Santa Maria Insurgentes
+632,El Pocito
+633,Fuentes Brotantes
+634,Cantil Del Pedregal
+635,Eva Samano De Lopez Mateos
+636,Santa Cruz Aviacion
+637,Santa Fe Peña Blanca
+638,Barrio La Otra Banda
+639,Parque Del Pedregal
+640,Nueva Santa Maria
+641,La Pastora
+642,Molino De Santo Domingo
+643,San Pedro Apostol
+644,Prados De Coyoacan
+645,Ermita Zaragoza
+646,Angel Zimbron
+647,Pueblo San Lorenzo Atemoaya
+648,Moderna
+649,Barrio San Lucas
+650,San Miguel 8va Ampliacion
+651,Ampliacion Cosmopolita
+652,Del Maestro
+653,San Alvaro
+654,20 De Noviembre
+655,La Pila
+656,San Miguel Chapultepec I Seccion
+657,Ex-Ejido De San Francisco Culhuacan
+658,Ex Ejido San Pablo Tepetlapa
+659,Culhuacan Ctm Seccion V
+660,San Simon Tolnahuac
+661,Barrio Zapotla
+662,Villa De Cortes
+663,Presidentes Ejidales 2a Seccion
+664,Lomas De Becerra
+665,Lomas De Chamontoya
+666,Corpus Christy
+667,Porvenir
+668,Maria Esther Zuno De Echeverria
+669,Juventino Rosas
+670,Pedregal De Santa Ursula
+671,Pueblo Parres El Guarda
+672,Toriello Guerra
+673,Colina Del Sur
+674,Bosques De Tetlameya
+675,Ampliacion Los Reyes
+676,Tlazintla
+677,Vergel Del Sur
+678,Progreso Tizapan
+679,Alfonso Xiii
+680,San Joaquin
+681,Ampliacion La Mexicana
+682,Pueblo San Bartolome Xicomulco
+683,Tolteca
+684,Daniel Garza
+685,Barrio Santa Ana Sur
+686,Josefa Ortiz De Dominguez
+687,San Mateo
+688,Pueblo San Juan Tepenahuac
+689,Euzkadi
+690,Americas Unidas
+691,El Reloj
+692,Janitzio
+693,Ferrocarrilera
+694,Pueblo Nuevo
+695,La Joyita
+696,Santa Isabel Industrial
+697,Barrio San Miguel Pueblo Santa Ana Tlacotenco
+698,Ventura Perez De Alva
+699,Ampl. Asturias
+700,Barrio La Soledad Del Pueblo  San Juan Ixtayopan
+701,Barrio San Ignacio
+702,Pueblo Santa Cruz Acayucan
+703,Magdalena Mixiuhca
+704,Venustiano Carranza
+705,Azteca
+706,Granjas Navidad
+707,General Pedro Ma Anaya
+708,Lomas De Chapultepec Iv Seccion
+709,Pueblo Tlacopac
+710,Cuauhtemoc Pensil
+711,Bejero Del Pueblo Santa Fe
+712,Comuneros De Santa Ursula
+713,Romero Rubio
+714,El Rodeo
+715,Arenal Tepepan
+716,Ejercito De Oriente
+717,Aviacion Civil
+718,Barranca De Guadalupe
+719,Pueblo San Bartolo Cahualtongo
+720,Ixtlahuacan
+721,Barrio Tetitla Del Pueblo Santa Cruz Acalpixca
+722,Vertiz Narvarte
+723,Agricola Metropolitana
+724,Escandon I Seccion
+725,Calzada Jalalpa
+726,Rancho Del Carmen Del Pueblo San Bartolo Ameyalco
+727,2 De Octubre
+728,Presidentes
+729,Jalalpa Tepito 2da Ampliacion
+730,1ra Ampliacion Presidentes
+731,Miguel Hidalgo 2a Seccion
+732,Miguel Hidalgo 1a Seccion
+733,Legaria
+734,Tlacoquemecatl
+735,Tlapechico
+736,El Cantil
+737,Los Cipreses
+738,Miguel Hidalgo 4a Seccion
+739,Arenal
+740,Anahuac Ii Seccion
+741,Copilco El Bajo
+742,San Miguel Teotongo Secc Guadalupe
+743,Ampliacion Nativitas
+744,Puente Blanco
+745,Pueblo San Lorenzo Xicotencatl
+746,Panteon Civil De Dolores
+747,Bosque De Chapultepec Iii Seccion
+748,Dolores Tlali
+749,Chimalistac
+750,Pueblo Santo Tomas Ajusco
+751,Residencial Villa Coapa
+752,Barrio La Fama
+753,Peña Pobre
+754,Ampliacion Gabriel Ramos Millan
+755,Zacamulpa
+756,Santa Teresa
+757,Pueblo San Lorenzo Tlacoyucan
+758,Villa Coyoacan
+759,San Miguel Teotongo Seccion Iztlahuaca
+760,Santiago Acahualtepec 2a Ampliacion
+761,El Encino Del Pueblo Tetelpan
+762,Desarrollo Urbano
+763,Tenorios
+764,Pueblo La Magdalena Petlacalco
+765,Pueblo San Pablo Chimalpa
+766,Martin Carrera
+767,Barrio San Bernabe
+768,Lomas De Sta Cruz
+769,Barrio Nochtla
+770,Barrio Del Niño Jesus
+771,Argentina Antigua
+772,Puente Colorado
+773,Cruz Del Farol
+774,Paraje 38
+775,Lomas De Chapultepec Vii Seccion
+776,Villa Gustavo A Madero
+777,San Miguel Teotongo Secc Capilla
+778,Del Bosque
+779,Gertrudis Sanchez 1a Seccion
+780,Aragon Inguaran
+781,Lomas De Sotelo
+782,El Molino
+783,Campestre Palo Alto
+784,Barrio La Magdalena
+785,Lomas De San Bernabe
+786,San Bartolo Ameyalco
+787,Jose Maria Pino Suarez
+788,San Miguel Teotongo Secc Mercedes
+789,Pueblo San Lorenzo Acopilco
+790,El Tianguillo
+791,Independencia
+792,Pueblo San Andres
+793,Ampliacion Castillo Grande
+794,Estado De Hidalgo
+795,Capultitlan
+796,Acueducto
+797,Culhuacan Ctm Seccion Vi
+798,Barrio Santiago Norte
+799,Barrio Santa Cruz
+800,Ex Hacienda San Juan De Dios
+801,Cocoyotes
+802,Ampliacion Tlacuitlapa
+803,Heron Proal
+804,Barrio Xochitepetl
+805,Heroe De Nacozari
+806,Santa Cruz De Las Salinas
+807,Credito Constructor
+808,Gabriel Hernandez
+809,Aquiles Serdan
+810,Arenal 4a. Seccion
+811,Pueblo Santa Lucia
+812,Los Encinos
+813,Polanco Iii Seccion
+814,El Jazmin
+815,Fuego Nuevo
+816,Del Gas
+817,Albert
+818,La Raza
+819,Colonial Iztapalapa
+820,Piloto Adolfo Lopez Mateos
+821,Barrio San Agustin Pueblo San Juan Ixtayopan
+822,San Angel Inn
+823,Unidad Cuitlahuac
+824,Barrio El Truenito
+825,Barrio Oxtopulco Universidad
+826,Prado Coapa 3a Seccion
+827,Ex Ejido San Juan De Aragon Sector 32
+828,Rincon Del Pedregal
+829,Pueblo San Pedro Xalpa
+830,Ampliacion Selene
+831,Palmatitla
+832,General Felipe Berriozabal
+833,Barrio La Lonja
+834,Las Tinajas
+835,Cuevitas
+836,Chimalli
+837,7 De Julio
+838,Los Volcanes
+839,Cuadrante De San Francisco
+840,Tierra Unida
+841,Lomas De San Angel Inn
+842,Prado Coapa 2a Seccion
+843,Lomas De Santa Fe
+844,Lomas Estrella
+845,San Francisco Culhuacan Barrio De San Francisco
+846,La Conchita Zapotitlan
+847,Indeco
+848,Barranca Seca
+849,Ampliacion Los Olivos
+850,Pueblo Santa Maria Tomatlan
+851,Aaron Saenz
+852,Arboledas  Del Sur
+853,Floresta Coyoacan
+854,Barrio Pocitos
+855,San Lorenzo Tlatenango
+856,Los Padres
+857,Santiaguito
+858,Bellavista
+859,Estrella Culhuacan
+860,San Miguel Teotongo Secc Rancho Bajo
+861,Portales Oriente
+862,Culhuacan Ctm Seccion Iii
+863,Villa Quietud
+864,Pedregal De San Nicolas 3a Seccion
+865,La Turba
+866,America
+867,Santa Fe
+868,Las Peñas
+869,Real Del Moral
+870,Tlatilco
+871,Lomas De La Estancia
+872,Ampliacion Lomas De San Bernabe
+873,Sindicato Mexicano De Electricistas
+874,El Parque De Coyoacan
+875,Lomas De Chapultepec Vi Seccion
+876,Mariano Escobedo
+877,La Otra Banda
+878,Arenal 1a. Seccion
+879,Simon Bolivar
+880,La Concepcion
+881,San Pablo
+882,Huayatla
+883,Vergel De Coyoacan
+884,Lomas Axomiatla
+885,Bosques De Tepeximilpa
+886,Barrio San Diego
+887,Villa Lazaro Cardenas
+888,Barrio Alfalfar
+889,Presidentes Ejidales 1a Seccion
+890,16 De Septiembre
+891,Pueblo San Sebastian Tecoloxtitla
+892,El Mirador 2a Seccion
+893,Las Salinas
+894,Sevilla
+895,San Clemente Sur
+896,Ahuehuetes
+897,Pueblo Santiago Tepalcatlalpan U H Rcda Del Sur
+898,Estrella Del Sur
+899,Carlos A Madrazo
+900,Rinconada Coapa
+901,La Concha
+902,Paseos De Taxqueña
+903,Quirino Mendoza
+904,Ampliacion El Santuario
+905,Barrio Chalmita
+906,Canutillo
+907,Cove
+908,San Miguel Teotongo Secc Loma Alta
+909,Belisario Dominguez
+910,Villa Olimpica
+911,Cuchilla Del Moral
+912,Culhuacan C.t.m. Secciën X
+913,Pueblo Nuevo Alto
+914,Pueblo Santo Domingo
+915,Heroes De 1910
+916,Copilco El Alto
+917,Dos Rios Del Pueblo De Santa Lucia
+918,San Antonio
+919,Barrio Huautla De Las Salinas
+920,Pensil Norte
+921,San Clemente Norte
+922,Polvorilla
+923,Ampliacion Emiliano Zapata
+924,San Juan Joya
+925,Balcones De Cehuayo
+926,Santa Fe La Loma
+927,Barrio San Jose
+928,Preconcreto
+929,Citlalli
+930,Guadalupita
+931,Rancho Tejomulco
+932,Liberales De 1857
+933,Ex Ejido De  Santa Ursula Coapa
+934,Banjidal
+935,Potrerillo
+936,Barrio El Capulin
+937,Sector Naval
+938,Nextitla
+939,Jardines De Churubusco
+940,Reforma Iztaccihuatl Sur
+941,Pueblo San Salvador Cuauhtenco
+942,Tlalpuente
+943,Modelo Pensil
+944,Reforma Iztaccihuatl Norte
+945,Canutillo 2da Seccion
+946,Pueblo San Jeronimo Miacatlan
+947,Pedregal De San Nicolas 2a Seccion
+948,San Miguel Teotongo (Secc La Cruz)
+949,Maximino Avila Camacho
+950,Barrio San Juan Pueblo San Luis Tlaxialtemalco
+951,El Rosal
+952,Tepantitlamilco
+953,Paulino Navarro
+954,Nueva Vallejo
+955,Lindavista Vallejo 2a Seccion
+956,Barrio Ocotitla
+957,Torre Blanca
+958,San Diego Ocoyoacac
+959,Reynosa Tamaulipas
+960,Postal
+961,Pueblo San Juanico Nextipac
+962,Industrial San Antonio
+963,Adolfo Ruiz Cortinez
+964,Lomas De Padierna Sur
+965,Heroes De Cerro Prieto
+966,Barrio Santa Lucia
+967,Arcos Centenario
+968,Pueblo San Miguel Amantla
+969,Ampliacion La Cebada
+970,Golondrinas
+971,Tlaxcaltenco La Mesa
+972,San Miguel Teotongo Secc Corrales
+973,Zapotitla
+974,Miravalle
+975,Ermita Tizapan
+976,San Jose Del Olivar
+977,5 De Mayo
+978,Victoria De Las Democracias
+979,Paseo De Las Lomas
+980,Barrio 3 De Mayo
+981,Zona Federal
+982,Cosmopolita
+983,La Casilda
+984,Espartaco
+985,La Mexicana
+986,Cerro Del Guerrero
+987,Forestal
+988,Santo Tomas
+989,Villa De Aragon
+990,La Manzanita
+991,Pueblo Santiago Ahuizotla
+992,Degollado-Mexicatlalli
+993,Barrio Santa Ana
+994,Peralitos
+995,Penitenciaria
+996,Un Hogar Para Cada Trabajador
+997,Villa Milpa Alta Centro
+998,Las Animas
+999,Barrio San Juan Moyotepec
+1000,San Francisco Culhuacan Barrio De La Magdalena
+1001,Bosques Del Pedregal
+1002,Vista Hermosa
+1003,Ampliacion San Juan De Aragon
+1004,Fraccionamiento Coyuya
+1005,Maza
+1006,8 De Agosto
+1007,Barrio Santiago Norte Del Pueblo Santiago Zapotitlan
+1008,Valle De Madero
+1009,Lomas De Chapultepec Ii Seccion
+1010,Liberacion Proletaria
+1011,Las Huertas
+1012,Pueblo San Andres Ahuayucan
+1013,Revolucion
+1014,Pueblo San Nicolas Tetelco
+1015,Pueblo Santa Barbara
+1016,Ampliacion Del Gas
+1017,Paraje San Juan
+1018,Pueblo San Francisco Xocotitla
+1019,Rosas Del Tepeyac
+1020,Ejercito De Oriente Zona Peñon
+1021,El Tejocote
+1022,Culhuacan Ctm Seccion Ix-B
+1023,Los Angeles Apanoaya
+1024,Pueblo Santa Catarina
+1025,Ampliacion Sinatel
+1026,Prado Coapa 1a Seccion
+1027,Cuchilla La Joya
+1028,Torres De Padierna
+1029,Chimilli
+1030,Arenal Puerto Aereo
+1031,Reforma Social
+1032,Santa Fe Tlayapaca
+1033,Tecalcapa Del Pueblo Tetelpan
+1034,Lago Norte
+1035,Paraiso
+1036,Lindavista Vallejo 1a Seccion
+1037,Monte Alban
+1038,Barrio La Laguna Ticoman
+1039,2da Del Moral Del Pueblo Tetelpan
+1040,Culhuacan Ctm Seccion Ix-A
+1041,Ex Hacienda De Tarango
+1042,Verano
+1043,Barrio San Juan Y Guadalupe Ticoman
+1044,Estanzuela
+1045,Magisterial Coapa
+1046,Las Aguilas 2do Parque
+1047,Texcaltenco
+1048,Roca De Cristal
+1049,Ave Real
+1050,Manuel Avila Camacho
+1051,Primavera
+1052,Los Sauces
+1053,Nuevo Barrio San Rafael
+1054,Del Lago
+1055,Residencial Acoxpa
+1056,Viveros Coatectlan
+1057,Pueblo La Magdalena
+1058,Santa Cruz De Guadalupe
+1059,Zona Escolar Oriente
+1060,Rinconada Coapa 1a Seccion
+1061,Ampliacion Benito Juarez
+1062,Pueblo Mexicaltzingo
+1063,Jalalpa Tepito
+1064,La Conchita
+1065,Prados Del Rosario
+1066,Barrio La Guadalupe
+1067,Barrio San Esteban
+1068,Francisco I Madero
+1069,La Preciosa
+1070,Valle Escondido
+1071,Culhuacan Ctm Seccion Piloto
+1072,Valle De Luces
+1073,Montevideo
+1074,Arboledas
+1075,Ferreria
+1076,Magisterial
+1077,Leyes De Reforma 2a Seccion
+1078,Nueva España
+1079,Vergel Coapa
+1080,La Esmeralda
+1081,Lomas De Las Aguilas
+1082,Pueblo San Agustin Ohtenco
+1083,El Arbolillo
+1084,Campestre
+1085,Puerta Grande
+1086,Barrio Tetitla
+1087,Paseos Del Sur
+1088,Pueblo San Francisco Tlalnepantla
+1089,Sinatel
+1090,Pradera 2a Seccion
+1091,Barrio La Guadalupe Pueblo San Pedro Tlahuac
+1092,Villa Progresista
+1093,Barrio La Luz
+1094,2da Ampliacion Presidentes
+1095,Ampliacion Santa Catarina
+1096,Barrio Norte
+1097,Lomas De Cuilotepec
+1098,San Buenaventura
+1099,Inpi Picos
+1100,Ejido San Mateo
+1101,San Sebastian
+1102,Lomas Del Pedregal Framboyanes
+1103,Minerva
+1104,Barrio Santa Martha
+1105,Arenal 3a. Seccion
+1106,Damian Carmona
+1107,Barrio La Concepcion Tlacoapa
+1108,Lomas De Los Angeles Pueblo Tetelpan
+1109,Noche Buena
+1110,Barrio Xaltipac
+1111,Divisadero
+1112,Nuevo Renacimiento De Axalco
+1113,Extremadura Insurgentes
+1114,Ex Ejido San Juan De Aragon Sector 33
+1115,Libertad
+1116,El Santuario
+1117,Aragon La Villa
+1118,Barrio La Gallera
+1119,Guadalupe Tlaltenco
+1120,Pueblo San Andres De Las Salinas
+1121,El Tanque
+1122,Atenor Salas
+1123,Tlacuitlapa
+1124,Lomas De Capula
+1125,El Pirul
+1126,San Pedro
+1127,Malacates
+1128,San Miguel Teotongo Secc Acorralado
+1129,Las Cruces
+1130,El Piru Santa Fe
+1131,San Miguel Teotongo Secc Palmitas
+1132,Barrio La Concepcion Pueblo San Juan Ixtayopan
+1133,Punta De Ceguaya
+1134,Granjas Esmeralda
+1135,Parque Metropolitano
+1136,Benito Juarez
+1137,Bosque Residencial Del Sur
+1138,Ampliacion Providencia
+1139,Carlos Jonguitud Barrios
+1140,Plan De Iguala
+1141,25 De Julio
+1142,Gabriel Ramos Millan Seccion Cuchilla
+1143,Valle De Santa Maria
+1144,Ampliacion Tepepan
+1145,Barrio Panchimalco
+1146,Hidalgo
+1147,San Francisco
+1148,Popo
+1149,Belvedere Ajusco
+1150,Las Americas
+1151,San Miguel Teotongo Secc Jardines
+1152,San Miguel Teotongo (Secc Las Torres)
+1153,Vistas Del Pedregal
+1154,Luis Donaldo Colosio
+1155,Cafetales
+1156,Barrio La Guadalupana
+1157,Lomas De Reforma
+1158,Barrio Santa Crucita
+1159,Pueblo Santa Cruz Xochitepec
+1160,San Juan Estrella
+1161,Barrio Tenantitla
+1162,Popular Santa Teresa
+1163,Los Gamitos
+1164,Cruz Blanca
+1165,La Guadalupe
+1166,Loma Del Padre
+1167,Barrio San Cristobal
+1168,Granjas Palo Alto
+1169,Escuela De Tiro
+1170,Pensil Sur
+1171,La Carbonera
+1172,Valle Del Tepeyac
+1173,Mesa De Los Hornos
+1174,Locaxco
+1175,Ampliacion Venustiano Carranza
+1176,Martires De Tacubaya
+1177,Tepetates
+1178,Barrio Calpulco
+1179,San Jose Buenavista
+1180,Lomas De Cuautepec
+1181,Santa Cruz Chavarrieta
+1182,Barrio De Caramaguey
+1183,San Agustin Del Pueblo Tetelpan
+1184,Petrolera Taxqueña
+1185,Barrio San Jose Pueblo San Luis Tlaxialtemalco
+1186,Barrio San Agustin
+1187,Rancho San Francisco Del Pblo San Bartolo Ameyalco
+1188,Nueva Oriental Coapa
+1189,Real De Las Lomas
+1190,Barrio Santa Ana Norte
+1191,Ampliacion Bellavista
+1192,La Venta
+1193,Colinas Del Bosque
+1194,Fuentes De Tepepan
+1195,Rinconada Las Cuevitas
+1196,Jaime Torres Bodet
+1197,Barrio Tula
+1198,Zenon Delgado
+1199,Castillo Grande
+1200,Miguel Aleman
+1201,Mirador I
+1202,Barrio Los Angeles
+1203,Ampliacion Caracol
+1204,Ampliacion Michoacana
+1205,Los Juristas
+1206,El Mirador 1a Seccion
+1207,Barros Sierra
+1208,Nueva Diaz Ordaz
+1209,Tlalpexco
+1210,La Cascada
+1211,Jardines Del Sur
+1212,Las Peritas
+1213,Tlacoyaque
+1214,Ignacio Manuel Altamirano
+1215,Arturo Martinez
+1216,Cananea
+1217,Rinconada Las Hadas
+1218,Barrio Centro
+1219,2do Reacomodo Tlacuitlapa
+1220,Reacomodo Valentin Gomez Farias
+1221,Ahuehuetes Anahuac
+1222,Residencial Emperadores
+1223,Plan De Ayala
+1224,Los Picos De Iztacalco Seccion 1 A
+1225,Golondrinas 2da Seccion
+1226,Altavista
+1227,Cerrillos Tercera Seccion
+1228,Tlacaelel
+1229,Golondrinas 1ra Seccion
+1230,Barrio La Candelaria
+1231,Ampliacion El Capulin
+1232,Miravalles
+1233,El Tepetatal
+1234,Triunfo De La Republica
+1235,San Miguel
+1236,La Joyita Del Pueblo Tetelpan
+1237,Pedregal De San Nicolas 5a Seccion
+1238,Maria G De Garcia Ruiz
+1239,Abdias Garcia Soto
+1240,El Piru 2da Ampliacion
+1241,Sideral
+1242,Barrio Las Calles
+1243,Bonanza
+1244,Dos Lagos
+1245,Ignacio Allende
+1246,Tecorral
+1247,Barrio San Miguel Pueblo San Pedro Tlahuac
+1248,Tepopotla
+1249,El Charco
+1250,Villa Verdun
+1251,U.habit. Cuchilla Del Tesoro
+1252,Miguel Gaona Armenta
+1253,La Lupita
+1254,Villa Hermosa
+1255,Ampliacion Tepeaca
+1256,Pueblo Jardines De San Juan
+1257,Lomas El Manto
+1258,Rancho Los Colorines
+1259,Lomas De Tonalco
+1260,Planetario Lindavista
+1261,Forestal I
+1262,Ampliacion Guadalupe Proletaria
+1263,La Peñita Del Pueblo Tetelpan
+1264,Pueblo Santa Catarina Yecahuizotl
+1265,Ampliacion Acueducto
+1266,La Regadera
+1267,Huayamilpas
+1268,Hacienda San Juan
+1269,Las Tortolas
+1270,Ampliacion Jose Lopez Portillo
+1271,El Molinito
+1272,Ampliacion Simon Bolivar
+1273,Ampliacion Malacates
+1274,Xochipilli
+1275,Coop Allapetlalli
+1276,La Mexicana 2da Ampliacion
+1277,Santisima Trinidad
+1278,Tepetongo
+1279,Jose Maria Morelos Y Pavon
+1280,Las Lajas
+1281,Chichicaspatl
+1282,Barrio San Simon Culhuacan
+1283,Molino Del Rey
+1284,Cumbres De Tepetongo
+1285,Polvora
+1286,El Ebano
+1287,Palmas Axotitla
+1288,Uscovi
+1289,San Miguel Teotongo Secc Avisadero
+1290,Pedregal De Las Aguilas
+1291,Atacaxco
+1292,Lomas De Nuevo Mexico
+1293,1ra Seccion Cañada
+1294,Manzanastitla
+1295,Ampliacion Jalalpa
+1296,Ampliacion El Triunfo
+1297,Barrio San Bartolome
+1298,Tres Mosqueteros
+1299,Ampliacion Chalma De Guadalupe
+1300,24 De Abril
+1301,Ampliacion San Miguel
+1302,La Meza
+1303,Barrio La Lupita Teticpac
+1304,Cuchilla De Padierna
+1305,Rincon De La Bolsa
+1306,Ampliacion Popo
+1307,Reacomodo El Cuernito
+1308,Valle Verde
+1309,Cantera Puente De Piedra
+1310,Barrio Tecaxtitla
+1311,Hermosillo
+1312,El Eden
+1313,Ampliacion La Conchita
+1314,Plutarco Elias Calles
+1315,Amado Nervo
+1316,Tempiluli
+1317,Degollado
+1318,Tecolalco
+1319,El Rincon
+1320,Los Picos De Iztacalco Seccion 2 A
+1321,Culhuacan Ctm Seccion  Ii
+1322,Barrio Apatlaco
+1323,Cerrillos Segunda Seccion
+1324,Narciso Bassols
+1325,La Huerta
+1326,La Palmita
+1327,Lomas De Nativitas
+1328,Lomas Hidalgo
+1329,Patrimonio Familiar
+1330,Cooperativa Union Olivos
+1331,1o De Mayo
+1332,Jardines Del Llano
+1333,Campestre Coyoacan
+1334,Bosque
+1335,Ampliacion Potrerillo
+1336,Reacomodo Pino Suarez
+1337,Pueblo Santa Lucia Chantepec
+1338,Estado De Veracruz
+1339,Joyas Del Pedregal
+1340,El Ermitaño
+1341,El Cuernito
+1342,Tepeaca
+1343,Culhuacan Ctm Seccion  I
+1344,Prados De Cuautepec
+1345,Ampliacion Cocoyotes
+1346,Valle De Tepepan
+1347,Peña Alta
+1348,Las Campanas
+1349,Santa Maria Del Monte
+1350,Ahuatenco
+1351,San Lucas Oriente
+1352,Ampliacion Memetla
+1353,El Maestro
+1354,Barrio Chapultepec
+1355,La Estrella
+1356,Barrio Las Cruces
+1357,Barrio Las Flores
+1358,Faja De Oro
+1359,El Arenal
+1360,Santa Lucia Chantepec
+1361,Albarrada
+1362,La Milagrosa
+1363,Ponciano Arriaga
+1364,Profesor J Arturo Lopez Martinez
+1365,Crescencio Juarez Chavira
+1366,Barrio El Calvario
+1367,Abraham M Gonzalez
+1368,Ampliacion Isidro Fabela
+1369,Barrio La Santisima
+1370,Cerro Del Judio - Av
+1371,El Mirador 3a Seccion
+1372,Tizampampano Del Pueblo Tetelpan
+1373,El Arbol
+1374,Dinamita
+1375,Ampliacion Petrolera
+1376,Ampliacion Arboledas
+1377,Ampliacion Veracruzana
+1378,Li Legislatura
+1379,Cehuaya
+1380,2da Seccion Cañada
+1381,Tlalmille
+1382,Lomas De Sn Pedro
+1383,Ampliacion Estado De Hidalgo
+1384,Barrio Niños Heroes
+1385,Rosario Tlali
+1386,U.habit. Zapote 1
+1387,Forestal Ii
+1388,Ocotillos Del Pueblo Tetelpan
+1389,Juventud Unida
+1390,Movimiento Organizado De Tlalpan
+1391,Las Aguilas 3er Parque
+1392,El Sacrificio
+1393,Ampliacion  Zapotitla
+1394,Monte Alto
+1395,Barrio La Lupita Xolco
+1396,Las Mesitas
+1397,Rinconada El Mirador
+1398,6 De Junio
+1399,1ro De Mayo
+1400,Zacayucan Peña Pobre
+1401,Rinconada De Tarango
+1402,El Politoco
+1403,Barrio Guadalupe Sta Catarina Yec
+1404,La Presa
+1405,La Araña
