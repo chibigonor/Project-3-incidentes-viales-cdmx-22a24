@@ -1,7 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
-CREATE TABLE Incidentes (
+﻿CREATE TABLE Incidentes (
     folio VARCHAR(50) NOT NULL,
     fecha_creacion DATE NOT NULL,
     hora_creacion TIME NOT NULL,
@@ -46,7 +43,6 @@ CREATE TABLE TipoEntrada (
 CREATE TABLE Colonias (
     id SERIAL NOT NULL,
     nombre VARCHAR(100) NOT NULL,
-    alcaldia_id INTEGER NOT NULL,
     PRIMARY KEY (id)
 );
 
@@ -64,6 +60,3 @@ REFERENCES Alcaldias (id);
 
 ALTER TABLE Incidentes ADD CONSTRAINT fk_Incidentes_colonia_catalogo FOREIGN KEY(colonia_catalogo)
 REFERENCES Colonias (id);
-
-ALTER TABLE Colonias ADD CONSTRAINT fk_Colonias_alcaldia_id FOREIGN KEY(alcaldia_id)
-REFERENCES Alcaldias (id);
