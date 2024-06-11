@@ -9,6 +9,15 @@ engine = create_engine(DATABASE_URI)
 def index():
     return render_template('index.html')
 
+@app.route('/incident_types', methods=['GET'])
+def get_incident_types():
+    query = 'SELECT id, descripcion FROM tipoincidente'
+    with engine.connect() as connection:
+        result = connection.execute(text(query))
+        incident_types = [dict(row) for row in result.mappings()]
+    return jsonify(incident_types)
+
+
 @app.route('/incidentes_coords', methods=['GET'])
 def get_incidentes_coords():
     query = '''
@@ -23,7 +32,8 @@ def get_incidentes_coords():
             tipoincidente ON incidentes.tipo_incidente_id = tipoincidente.id
         JOIN 
             alcaldias ON incidentes.alcaldia_catalogo_id = alcaldias.id
-        LIMIT 2000
+        WHERE 
+            EXTRACT(YEAR FROM incidentes.fecha_creacion) = 2024
     '''
     with engine.connect() as connection:
         result = connection.execute(text(query))
