@@ -76,27 +76,7 @@ PostgreSQL: Storing incident data and related entities.
 
 ERD: Visual representation of the database schema to understand relationships between tables.
 
-Project Structure
 
-incident-data-visualization/
-│
-├── static/
-│   ├── css/
-│   │   ├── index.css
-│   │   └── map.css
-│   ├── img/
-│   │   └── map_img.jpg
-│   └── js/
-│       ├── map.js
-│       └── plot1.js
-├── data/
-│   └── incident_data.csv
-├── templates/
-│   ├── index.html
-│   ├── map.html
-│   └── plot1.html
-├── app.py
-└── README.md
 
 Detailed Data Processing Steps
 
