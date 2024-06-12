@@ -7,7 +7,7 @@ Project Overview
 
 Project Description
 
-The Incident Data Visualization project is a comprehensive web-based tool designed to provide interactive visualizations of incident data within various administrative divisions and neighborhoods. Users can explore different types of visualizations, including maps and various plots, to gain insights into incident patterns and trends.
+The Incident Data Visualization project is a comprehensive web-based tool designed to provide interactive visualizations of incident data (Ciudad de Mexico from 2022 -2024) within various administrative divisions and neighborhoods. Users can explore different types of visualizations, including maps and various plots, to gain insights into incident patterns and trends.
 
 Purpose
 
