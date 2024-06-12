@@ -1,4 +1,4 @@
 Original_CSV/inViales_2022_2024.csv
 test.py
 App/config.py
-App/__pycache__/
+/App/__pycache__/
