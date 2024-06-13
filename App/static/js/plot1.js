@@ -36,7 +36,8 @@ d3.json('/alcaldias').then(function(alcaldiaData) {
                 title: `Incidents by Type in ${alcaldia}`,
                 xaxis: {
                     title: 'Incident Type',
-                    tickangle: -45
+                    tickangle: -45,
+                    automargin: true
                 },
                 yaxis: {
                     title: 'Incident Count'
