@@ -31,7 +31,6 @@ d3.json('/alcaldias').then(function(alcaldiaData) {
                 y: counts,
                 type: 'bar'
             };
-            // layout
             const layout = {
                 title: `Incidents by Type in ${alcaldia}`,
                 xaxis: {

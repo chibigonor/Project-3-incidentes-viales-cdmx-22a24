@@ -103,6 +103,9 @@ def map_view():
 def plot1_view():
     return render_template('plot_1.html')
 
+@app.route('/table')
+def table():
+    return render_template('table.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
