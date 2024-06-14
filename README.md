@@ -1,4 +1,5 @@
 # Project-3-incidentes-viales-cdmx-22a24
+
 ## General Guide for the Incident Data Visualization Project
 
 ### Project Overview
@@ -8,6 +9,20 @@ The Incident Data Visualization project is a comprehensive web-based tool design
 
 #### Purpose
 The main purpose of this project is to offer a detailed, interactive view of incidents to help users understand the data through visual exploration, which can assist in decision-making, resource allocation, and identifying trends or hotspots.
+
+### Ethical Considerations
+
+#### Clearview AI (Reading 16.1)
+- **Privacy Concerns**: Ensuring that the data used for visualization does not infringe on individuals' privacy rights. Clearview AI’s controversial use of public images highlights the importance of obtaining proper consent and protecting personal information.
+- **Data Accuracy and Bias**: Ensuring that the visualizations accurately represent incident data without bias. The potential for misuse of technology, as seen with Clearview AI, underscores the need for responsible data handling and presentation.
+
+#### Healthcare Bias (Reading 16.2)
+- **Algorithmic Fairness**: The project should ensure that any algorithms or data processing methods used are fair and do not perpetuate existing biases, similar to the issues found in the healthcare algorithm study. This includes regular audits and updates to the algorithms to ensure fairness.
+- **Equitable Resource Allocation**: The insights gained from the visualizations should aid in fair resource allocation, addressing any disparities similar to those found in healthcare where Black patients received less support.
+
+#### Regulation Compliance (Reading 16.3)
+- **Legal Compliance**: The project must comply with relevant data protection regulations (e.g., GDPR, CCPA) to ensure ethical use of data. This involves securing user data, obtaining necessary consents, and transparently communicating data use practices.
+- **Accountability and Transparency**: Maintaining transparency about how data is collected, processed, and used. Any violations of these regulations should be promptly addressed with clear accountability mechanisms.
 
 ### Features and Tools
 
@@ -78,4 +93,3 @@ The main purpose of this project is to offer a detailed, interactive view of inc
 3. **Filtering and Cleaning Data**: Remove unnecessary columns and filter out specific incident types.
 4. **Merging DataFrames**: Combine the main incident DataFrame with the unique entity DataFrames to incorporate their IDs.
 5. **Saving Processed Data**: Save the cleaned and merged DataFrame to a new CSV file for use in the application.
-
