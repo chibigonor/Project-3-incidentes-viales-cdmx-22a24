@@ -99,6 +99,24 @@ def get_incidentes_plot3():
         incidentes_plot3 = [dict(row) for row in result.mappings()]
     return jsonify(incidentes_plot3)
 
+@app.route('/incidentes_plot4', methods=['GET'])
+def get_incidentes_plot4():
+    query = '''
+        SELECT 
+            TO_CHAR(fecha_creacion, 'Day') AS day_of_week,
+            COUNT(*) AS incident_count
+        FROM 
+            incidentes
+        GROUP BY 
+            day_of_week
+        ORDER BY 
+            incident_count DESC;
+    '''
+    with engine.connect() as connection:
+        result = connection.execute(text(query))
+        incidentes_plot4 = [dict(row) for row in result.mappings()]
+    return jsonify(incidentes_plot4)
+
 @app.route('/incidentes_coords', methods=['GET'])
 def get_incidentes_coords():
     query = '''
@@ -136,6 +154,10 @@ def plot2_view():
 @app.route('/plot3')
 def plot3_view():
     return render_template('plot_3.html')
+
+@app.route('/plot4')
+def plot4_view():
+    return render_template('plot_4.html')
 
 @app.route('/table')
 def table():
