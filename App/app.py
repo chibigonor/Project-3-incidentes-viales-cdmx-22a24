@@ -76,7 +76,28 @@ def get_incident_count():
         incident_count = [dict(row) for row in result.mappings()]
     return jsonify(incident_count)
      
-
+@app.route('/incidentes_plot3', methods=['GET'])
+def get_incidentes_plot3():
+    query = '''
+        SELECT 
+            colonias.nombre AS colonia,
+            tipoincidente.descripcion AS tipo_incidente,
+            COUNT(*) AS incident_count
+        FROM 
+            incidentes
+        JOIN 
+            colonias ON incidentes.colonia_catalogo_id = colonias.id
+        JOIN 
+            tipoincidente ON incidentes.tipo_incidente_id = tipoincidente.id
+        GROUP BY 
+            colonias.nombre, tipoincidente.descripcion
+        ORDER BY 
+            colonias.nombre, tipoincidente.descripcion;
+    '''
+    with engine.connect() as connection:
+        result = connection.execute(text(query))
+        incidentes_plot3 = [dict(row) for row in result.mappings()]
+    return jsonify(incidentes_plot3)
 
 @app.route('/incidentes_coords', methods=['GET'])
 def get_incidentes_coords():
