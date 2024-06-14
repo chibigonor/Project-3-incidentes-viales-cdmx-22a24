@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
 from sqlalchemy import create_engine, text
 from config import DATABASE_URI
 
@@ -25,6 +25,14 @@ def get_alcaldias():
         alcaldias = [dict(row) for row in result.mappings()]
     return jsonify(alcaldias)
 
+@app.route('/colonias', methods=['GET'])
+def get_colonias():
+  query = 'SELECT id, nombre FROM colonias'
+  with engine.connect() as connection:
+    result = connection.execute(text(query))
+    colonias = [dict(row) for row in result.mappings()]
+  return jsonify(colonias)
+
 @app.route('/incidentes_plot1', methods=['GET'])
 def get_incidentes_plot1():
     query = '''
@@ -49,28 +57,25 @@ def get_incidentes_plot1():
     return jsonify(incidentes_plot1)
 
 
-@app.route('/incidentes_plot2', methods=['GET'])
-def get_incidentes_plot2():
+ # unique dynamic endpoint
+@app.route('/incident_count', methods=['GET'])
+def get_incident_count():
+    year = request.args.get('year')
+    colonia = request.args.get('colonia')
     query = '''
-        SELECT 
-            EXTRACT(YEAR FROM fecha_creacion) AS year,
-            tipoincidente.descripcion AS incident_type,
-            COUNT(*) AS incident_count
-        FROM 
-            incidentes
-        JOIN 
-            tipoincidente ON incidentes.tipo_incidente_id = tipoincidente.id
-        WHERE 
-            EXTRACT(YEAR FROM fecha_creacion) != 2021
-        GROUP BY 
-            EXTRACT(YEAR FROM fecha_creacion), tipoincidente.descripcion
-        ORDER BY 
-            year, incident_type;
+    SELECT tipoincidente.descripcion, COUNT(*) as count 
+    FROM incidentes 
+    JOIN tipoincidente ON incidentes.tipo_incidente_id = tipoincidente.id 
+    JOIN colonias ON incidentes.colonia_catalogo_id = colonias.id 
+    WHERE EXTRACT(YEAR FROM incidentes.fecha_creacion) = :year 
+    AND colonias.nombre = :colonia 
+    GROUP BY tipoincidente.descripcion
     '''
     with engine.connect() as connection:
-        result = connection.execute(text(query))
-        incidentes_plot2 = [dict(row) for row in result.mappings()]
-    return jsonify(incidentes_plot2)
+        result = connection.execute(text(query), {'year': year, 'colonia': colonia})
+        incident_count = [dict(row) for row in result.mappings()]
+    return jsonify(incident_count)
+     
 
 
 @app.route('/incidentes_coords', methods=['GET'])
@@ -102,6 +107,14 @@ def map_view():
 @app.route('/plot1')
 def plot1_view():
     return render_template('plot_1.html')
+
+@app.route('/plot2')
+def plot2_view():
+    return render_template('plot_2.html')
+
+@app.route('/plot3')
+def plot3_view():
+    return render_template('plot_3.html')
 
 @app.route('/table')
 def table():
