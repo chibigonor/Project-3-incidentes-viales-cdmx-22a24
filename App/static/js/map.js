@@ -44,12 +44,13 @@ function loadIncidents(data, incidentType) {
     console.log('Loading incidents for type:', incidentType);
     markersLayer.clearLayers();  // Clear existing markers
 
+    // this section selects the data that is equal to the incidenttype 
     var filteredData = data.filter(function(incident) {
         return incident.descripcion === incidentType;
     });
 
     console.log('Filtered data:', filteredData);
-
+    // add the markers to the map as a layer to the map
     filteredData.forEach(function(incident) {
         var marker = L.marker([incident.latitud, incident.longitud])
             .bindPopup(`Type: ${incident.descripcion}<br>Alcaldia: ${incident.nombre}`);

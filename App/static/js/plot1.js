@@ -22,7 +22,7 @@ d3.json('/alcaldias').then(function(alcaldiaData) {
             // counts contains the number of counts and the types contains unique accident type
             const counts = types.map(type => {
                 const incident = filteredData.find(d => d.incident_type === type);
-                // uf there is no incident fount then the incident value is 0
+                // if there is no incident fount then the incident value is 0
                 return incident ? incident.incident_count : 0;
             });
             // makeing the trace and type of graph
