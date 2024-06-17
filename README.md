@@ -30,21 +30,21 @@ The main purpose of this project is to offer a detailed, interactive view of inc
 
 **Interactive Map Visualization**
 - **Description**: A dynamic map that displays incident data geographically. Users can filter incidents by type and interact with the map to get detailed information on specific incidents.
-- **Tools Used**: Leaflet.js, MarkerCluster
+- **Tools Used**: [Leaflet.js](https://leafletjs.com/), [MarkerCluster](https://github.com/Leaflet/Leaflet.markercluster)
 - **Functionality**:
   - **Incident Type Selector**: A dropdown menu to filter incidents by type.
   - **Interactive Map**: Markers on the map representing incidents, with clustering for better visualization at different zoom levels.
 
 **Incident Plots**
 - **Description**: Interactive plots to visualize incidents by type and administrative divisions (alcaldias).
-- **Tools Used**: Plotly, D3.js
+- **Tools Used**: [Plotly](https://plotly.com/javascript/), [D3.js](https://d3js.org/)
 - **Functionality**:
   - **Alcaldia Selector**: A dropdown menu to filter incidents by specific alcaldias.
   - **Dynamic Plot**: Visual representation of incident data that updates based on user selections.
 
 **API Links Table**
 - **Description**: A table listing all API links of the app.
-- **Tools Used**: DataTables, jQuery
+- **Tools Used**: [DataTables](https://datatables.net/), [jQuery](https://jquery.com/)
 - **Functionality**:
   - **Interactive Table**: Provides features such as searching, sorting, and pagination.
 
@@ -69,13 +69,13 @@ The main purpose of this project is to offer a detailed, interactive view of inc
 
 #### Frontend Technologies:
 - **HTML/CSS**: For structuring and styling the web pages.
-- **Bootstrap**: For responsive design and pre-built components.
-- **Leaflet.js**: For interactive maps.
-- **MarkerCluster**: For clustering map markers.
-- **Plotly**: For creating interactive plots.
-- **D3.js**: For data-driven document manipulation.
-- **DataTables**: For enhancing HTML tables with interactive features.
-- **jQuery**: For DOM manipulation and to support DataTables.
+- **[Bootstrap](https://getbootstrap.com/)**: For responsive design and pre-built components.
+- **[Leaflet.js](https://leafletjs.com/)**: For interactive maps.
+- **[MarkerCluster](https://github.com/Leaflet/Leaflet.markercluster)**: For clustering map markers.
+- **[Plotly](https://plotly.com/javascript/)**: For creating interactive plots.
+- **[D3.js](https://d3js.org/)**: For data-driven document manipulation.
+- **[DataTables](https://datatables.net/)**: For enhancing HTML tables with interactive features.
+- **[jQuery](https://jquery.com/)**: For DOM manipulation and to support DataTables.
 
 #### Backend Technologies:
 - **Python**: For data processing and server-side logic.
@@ -86,10 +86,12 @@ The main purpose of this project is to offer a detailed, interactive view of inc
 - **ERD**: Visual representation of the database schema to understand relationships between tables.
 
 ### Detailed Data Processing Steps
-
 1. **Reading Original Data**: Load the incident data from a CSV file into a pandas DataFrame.
 2. **Creating Unique Entity DataFrames**:
    - Extract and save unique values for alcaldias, incident types, closure codes, entry types, and alarm classifications.
 3. **Filtering and Cleaning Data**: Remove unnecessary columns and filter out specific incident types.
 4. **Merging DataFrames**: Combine the main incident DataFrame with the unique entity DataFrames to incorporate their IDs.
 5. **Saving Processed Data**: Save the cleaned and merged DataFrame to a new CSV file for use in the application.
+
+### Data Source
+The original dataset can be found at: [https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5](https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5).
