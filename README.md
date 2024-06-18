@@ -93,5 +93,35 @@ The main purpose of this project is to offer a detailed, interactive view of inc
 4. **Merging DataFrames**: Combine the main incident DataFrame with the unique entity DataFrames to incorporate their IDs.
 5. **Saving Processed Data**: Save the cleaned and merged DataFrame to a new CSV file for use in the application.
 
+### How to Use the App
+
+1. **Run the ETL Process**: 
+   - Ensure you have the necessary CSV files and the ETL scripts.
+   - Use pandas in your Python script to read, clean, and process the data.
+   - Save the processed data into a new CSV file or directly to the PostgreSQL database.
+
+2. **Fill the Database**: 
+   - Use the processed CSV file to populate your PostgreSQL database.
+   - Ensure your database schema matches the structure expected by the application.
+
+3. **Configure the Application**: 
+   - Create a `config.py` file in the `App` folder.
+   - Set up your PostgreSQL user and connection details in `config.py`.
+   - Use this variable: 
+      ```
+      DATABASE_URI = 'postgresql://youruser:password@localhost/incidentes_viales_cdmx_22a24'
+      ```
+
+4. **Run the Application**: 
+   - Open your terminal and navigate to the `App` folder.
+   - Activate your virtual environment if you are using one.
+   - Run the Flask application with the command:
+     ```
+      flask run
+     ```
+   - Access the application in your web browser at `http://127.0.0.1:5000/`.
+
+By following these steps, you will set up and run the Incident Data Visualization project, allowing you to explore incident data interactively.
+
 ### Data Source
 The original dataset can be found at: [https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5](https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5).
